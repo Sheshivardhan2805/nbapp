@@ -1,4 +1,3 @@
-a=400
-b=2000
-c=a+b
+a=int(input("Enter The Value"))
+c=a+2000
 print(c)
