@@ -1,4 +1,5 @@
 a=2000
-x=10
+x=100
+x=a-x
 print("Hello World",x)
 
